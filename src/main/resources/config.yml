@@ -1,0 +1,3 @@
+CHAT:
+  ENABLED: true
+  FORMAT: "%player% &8» &r%message%"

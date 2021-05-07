@@ -1,0 +1,4 @@
+name: ChatFormat
+version: 1.0
+main: es.hulk.chatformat.Chat
+depend: [PlaceholderAPI]
